@@ -1,0 +1,80 @@
+Trial 1
+
+Greedy Search: 
+1001000 cost: 90 reach: 15
+100100 cost: 5000 reach: 155
+
+Genetic Algorithm: 
+1100100  cost: 100 reach: 17
+100100  cost: 5000 reach: 155
+
+Trial 2
+
+Greedy Search: 
+1001000 cost: 90 reach: 15
+100100 cost: 5000 reach: 155
+
+Genetic Algorithm: 
+1001000  cost: 90 reach: 15
+100100  cost: 5000 reach: 155
+
+Trial 3
+
+Greedy Search: 
+1001000 cost: 90 reach: 15
+100100 cost: 5000 reach: 155
+
+Genetic Algorithm: 
+1100100  cost: 100 reach: 17
+100100  cost: 5000 reach: 155
+
+Trial 4
+
+Greedy Search: 
+1001000 cost: 90 reach: 15
+100100 cost: 5000 reach: 155
+
+Genetic Algorithm: 
+1100100  cost: 100 reach: 17
+100100  cost: 5000 reach: 155
+
+Trial 5
+
+Greedy Search: 
+1001000 cost: 90 reach: 15
+100100 cost: 5000 reach: 155
+
+Genetic Algorithm: 
+1100100  cost: 100 reach: 17
+100100  cost: 5000 reach: 155
+
+Trial 6
+
+Greedy Search: 
+1001000 cost: 90 reach: 15
+100100 cost: 5000 reach: 155
+
+Genetic Algorithm: 
+1100100  cost: 100 reach: 17
+100100  cost: 5000 reach: 155
+
+Trial 7
+
+Greedy Search: 
+1001000 cost: 90 reach: 15
+100100 cost: 5000 reach: 155
+
+Genetic Algorithm: 
+1100100  cost: 100 reach: 17
+100100  cost: 5000 reach: 155
+
+Trial 8
+
+Greedy Search: 
+1001000 cost: 90 reach: 15
+100100 cost: 5000 reach: 155
+
+Genetic Algorithm: 
+1100100  cost: 100 reach: 17
+100100  cost: 5000 reach: 155
+
